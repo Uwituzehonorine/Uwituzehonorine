@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uwituzehonorine
-- 👀 I’m interested in web programming 
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ALX
+- 👀 I’m interested in technology especially software development 
+- 🌱 I have done IT
+- 💞️ I’m Junior software engineer
 - 📫 How to reach me honorineuwituze896@gmail.com 
 
 <!---
