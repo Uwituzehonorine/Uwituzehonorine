@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uwituzehonorine
-- 👀 I’m interested in technology especially software development 
-- 🌱 I have done IT
-- 💞️ I’m Junior software engineer
+- 👀 I’m interested in technology
+- 🌱 I hold diploma in Information Technology
+- 💞️ software engineer
 - 📫 How to reach me honorineuwituze896@gmail.com 
 
 <!---
